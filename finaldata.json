@@ -1,0 +1,793 @@
+{
+   "hamburger":{
+      "fries water":0.6,
+      "sweet potato fries":0.4,
+      "radius":5
+   },
+   "fries water":{
+      "hamburger":1.0,
+      "radius":3
+   },
+   " onion":{
+      " corn saute":1.0,
+      "radius":2
+   },
+   " corn saute":{
+      " onion":1.0,
+      "radius":2
+   },
+   "cup of coffee":{
+      "creamer":0.9459459459459459,
+      " 2 eggs blk beans 1 tortilla":0.05405405405405406,
+      "radius":74
+   },
+   "creamer":{
+      "cup of coffee":0.813953488372093,
+      "cup coffee":0.08139534883720931,
+      " cup of coffee":0.03488372093023256,
+      " ok":0.011627906976744186,
+      " cup coffee":0.011627906976744186,
+      " 2 eggs blk beans 1 tortilla":0.046511627906976744,
+      "radius":86
+   },
+   "half bagel":{
+      "cream cheese":1.0,
+      "radius":1
+   },
+   "cream cheese":{
+      "half bagel":1.0,
+      "radius":1
+   },
+   "meatloaf":{
+      "mashed potatoes":0.5,
+      "ashes potatoes":0.5,
+      "radius":4
+   },
+   "mashed potatoes":{
+      "meatloaf":1.0,
+      "radius":2
+   },
+   "mixed garden salad":{
+      "grilled":1.0,
+      "radius":3
+   },
+   "grilled":{
+      "mixed garden salad":1.0,
+      "radius":3
+   },
+   " chicken blk ":{
+      " pinto beans":1.0,
+      "radius":2
+   },
+   " pinto beans":{
+      " chicken blk ":1.0,
+      "radius":2
+   },
+   " celery":{
+      "pnut butter chips":1.0,
+      "radius":3
+   },
+   "pnut butter chips":{
+      " celery":1.0,
+      "radius":3
+   },
+   " spanish rice":{
+      " beans guacamole":1.0,
+      "radius":3
+   },
+   " beans guacamole":{
+      " spanish rice":1.0,
+      "radius":3
+   },
+   " dirty rice":{
+      "kidney beans":1.0,
+      "radius":2
+   },
+   "kidney beans":{
+      " dirty rice":1.0,
+      "radius":2
+   },
+   "beef ribs coleslaw":{
+      " bbq beans":1.0,
+      "radius":5
+   },
+   " bbq beans":{
+      "beef ribs coleslaw":1.0,
+      "radius":5
+   },
+   "cup coffee":{
+      "creamer":1.0,
+      "radius":7
+   },
+   "grilled chicken":{
+      " veggie era":1.0,
+      "radius":2
+   },
+   " veggie era":{
+      "grilled chicken":1.0,
+      "radius":2
+   },
+   "bowl of fruit":{
+      "lemon chile":1.0,
+      "radius":3
+   },
+   "lemon chile":{
+      "bowl of fruit":1.0,
+      "radius":3
+   },
+   "spinach salad":{
+      "white":0.5,
+      "":0.5,
+      "radius":4
+   },
+   "white":{
+      "spinach salad":0.5,
+      "":0.5,
+      "radius":4
+   },
+   "":{
+      "spinach salad":0.25,
+      "white":0.25,
+      "achos":0.25,
+      "birria meat":0.25,
+      "radius":8
+   },
+   " brown rice shrimp":{
+      " octopus":1.0,
+      "radius":2
+   },
+   " octopus":{
+      " brown rice shrimp":1.0,
+      "radius":2
+   },
+   "chips":{
+      " salsa":0.1,
+      "mango salsa":0.3,
+      "ham sandwich ":0.4,
+      "half cup salsa":0.2,
+      "radius":10
+   },
+   " salsa":{
+      "chips":0.5,
+      " chips":0.5,
+      "radius":2
+   },
+   "steamed clams":{
+      "angel hair pas":1.0,
+      "radius":2
+   },
+   "angel hair pas":{
+      "steamed clams":1.0,
+      "radius":2
+   },
+   "quinoa mediterranean salad":{
+      " 2 grilled chicken thighs":1.0,
+      "radius":2
+   },
+   " 2 grilled chicken thighs":{
+      "quinoa mediterranean salad":1.0,
+      "radius":2
+   },
+   "shrimp sausage tacos":{
+      " avocado salsa beans rice":1.0,
+      "radius":6
+   },
+   " avocado salsa beans rice":{
+      "shrimp sausage tacos":1.0,
+      "radius":6
+   },
+   "2 grilled beef fajita":{
+      " veggie":1.0,
+      "radius":4
+   },
+   " veggie":{
+      "2 grilled beef fajita":1.0,
+      "radius":4
+   },
+   " tacos spanish rice":{
+      " beans":1.0,
+      "radius":3
+   },
+   " beans":{
+      " tacos spanish rice":0.75,
+      " rice":0.25,
+      "radius":4
+   },
+   "2 egg":{
+      "steak":0.5,
+      " salsa omelette":0.5,
+      "radius":8
+   },
+   "steak":{
+      "2 egg":0.5,
+      " salsa omelette":0.5,
+      "radius":8
+   },
+   " salsa omelette":{
+      "2 egg":0.5,
+      "steak":0.5,
+      "radius":8
+   },
+   "beef penne pasta":{
+      "asparagus":1.0,
+      "radius":4
+   },
+   "asparagus":{
+      "beef penne pasta":1.0,
+      "radius":4
+   },
+   " brown rice":{
+      " steamed broccoli":1.0,
+      "radius":2
+   },
+   " steamed broccoli":{
+      " brown rice":1.0,
+      "radius":2
+   },
+   "churro":{
+      "vanilla ice cream":1.0,
+      "radius":1
+   },
+   "vanilla ice cream":{
+      "churro":1.0,
+      "radius":1
+   },
+   "clam chowder":{
+      " a beer":1.0,
+      "radius":2
+   },
+   " a beer":{
+      "clam chowder":1.0,
+      "radius":2
+   },
+   "but sandwich":{
+      "1 egg fruit":1.0,
+      "radius":3
+   },
+   "1 egg fruit":{
+      "but sandwich":1.0,
+      "radius":3
+   },
+   "lentils":{
+      " brn rice":1.0,
+      "radius":2
+   },
+   " brn rice":{
+      "lentils":1.0,
+      "radius":2
+   },
+   " polenta":{
+      " skirt steak":1.0,
+      "radius":2
+   },
+   " skirt steak":{
+      " polenta":1.0,
+      "radius":2
+   },
+   "cranberry mixed":{
+      "water":1.0,
+      "radius":3
+   },
+   "water":{
+      "cranberry mixed":1.0,
+      "radius":3
+   },
+   " half cup coffee":{
+      "less creamer":1.0,
+      "radius":2
+   },
+   "less creamer":{
+      " half cup coffee":1.0,
+      "radius":2
+   },
+   " roasted broccoli":{
+      " brussel":1.0,
+      "radius":3
+   },
+   " brussel":{
+      " roasted broccoli":1.0,
+      "radius":3
+   },
+   "cantaloupe":{
+      " greens salad":1.0,
+      "radius":2
+   },
+   " greens salad":{
+      "cantaloupe":1.0,
+      "radius":2
+   },
+   "med size surf":{
+      " turf burrito":1.0,
+      "radius":2
+   },
+   " turf burrito":{
+      "med size surf":1.0,
+      "radius":2
+   },
+   " qtr cup beans":{
+      " rice":1.0,
+      "radius":1
+   },
+   " rice":{
+      " qtr cup beans":0.5,
+      " beans":0.5,
+      "radius":2
+   },
+   "mango salsa":{
+      "chips":1.0,
+      "radius":3
+   },
+   " brie prosciutto":{
+      " crackers":1.0,
+      "radius":3
+   },
+   " crackers":{
+      " brie prosciutto":1.0,
+      "radius":3
+   },
+   " grilled artichokes":{
+      "aioli":1.0,
+      "radius":2
+   },
+   "aioli":{
+      " grilled artichokes":1.0,
+      "radius":2
+   },
+   " cup of coffee":{
+      "creamer":0.75,
+      " ok":0.25,
+      "radius":4
+   },
+   " ok":{
+      " cup of coffee":0.5,
+      "creamer":0.5,
+      "radius":2
+   },
+   "2 eggs 3 sausage links":{
+      " 2 tomato slices half avocado":1.0,
+      "radius":4
+   },
+   " 2 tomato slices half avocado":{
+      "2 eggs 3 sausage links":1.0,
+      "radius":4
+   },
+   "cauliflower bake":{
+      " oven roasted potatoes":1.0,
+      "radius":3
+   },
+   " oven roasted potatoes":{
+      "cauliflower bake":1.0,
+      "radius":3
+   },
+   "pulled pork":{
+      " coleslaw sandwiche":1.0,
+      "radius":3
+   },
+   " coleslaw sandwiche":{
+      "pulled pork":1.0,
+      "radius":3
+   },
+   " cup coffee":{
+      "creamer":1.0,
+      "radius":1
+   },
+   " egg scramble":{
+      "veggies":1.0,
+      "radius":2
+   },
+   "veggies":{
+      " egg scramble":1.0,
+      "radius":2
+   },
+   " sausage":{
+      " potatoes":1.0,
+      "radius":2
+   },
+   " potatoes":{
+      " sausage":1.0,
+      "radius":2
+   },
+   "plate paella":{
+      " garden salad":1.0,
+      "radius":1
+   },
+   " garden salad":{
+      "plate paella":0.2,
+      "nuts":0.4,
+      " seeds":0.4,
+      "radius":5
+   },
+   " banana":{
+      " chips":1.0,
+      "radius":2
+   },
+   " chips":{
+      " banana":0.2857142857142857,
+      "1 banana":0.2857142857142857,
+      "club sandwich":0.2857142857142857,
+      " salsa":0.14285714285714285,
+      "radius":7
+   },
+   "spaghetti":{
+      "meat sauce":1.0,
+      "radius":2
+   },
+   "meat sauce":{
+      "spaghetti":0.25,
+      "italian garden salad":0.375,
+      " spaghetti":0.375,
+      "radius":8
+   },
+   "sweet potato fries":{
+      "hamburger":1.0,
+      "radius":2
+   },
+   "carrot sticks":{
+      "hummus snack":1.0,
+      "radius":2
+   },
+   "hummus snack":{
+      "carrot sticks":1.0,
+      "radius":2
+   },
+   "sushi roll":{
+      "edamame":1.0,
+      "radius":2
+   },
+   "edamame":{
+      "sushi roll":1.0,
+      "radius":2
+   },
+   "italian garden salad":{
+      " spaghetti":0.5,
+      "meat sauce":0.5,
+      "radius":6
+   },
+   " spaghetti":{
+      "italian garden salad":0.5,
+      "meat sauce":0.5,
+      "radius":6
+   },
+   "heart of palm salad":{
+      " thai shrimp":0.5,
+      "coconut pineapple":0.5,
+      "radius":10
+   },
+   " thai shrimp":{
+      "heart of palm salad":0.5,
+      "coconut pineapple":0.5,
+      "radius":10
+   },
+   "coconut pineapple":{
+      "heart of palm salad":0.5,
+      " thai shrimp":0.5,
+      "radius":10
+   },
+   "pineapple melon wedges grapes":{
+      " 2nd cup coffees":1.0,
+      "radius":4
+   },
+   " 2nd cup coffees":{
+      "pineapple melon wedges grapes":1.0,
+      "radius":4
+   },
+   "2 oz macallan":{
+      "tonic water":1.0,
+      "radius":1
+   },
+   "tonic water":{
+      "2 oz macallan":1.0,
+      "radius":1
+   },
+   " thin steak":{
+      "an egg on top":1.0,
+      "radius":3
+   },
+   "an egg on top":{
+      " thin steak":1.0,
+      "radius":3
+   },
+   "grilled shrimp burrito":{
+      "salsa":1.0,
+      "radius":3
+   },
+   "salsa":{
+      "grilled shrimp burrito":0.6,
+      "2 eggs":0.4,
+      "radius":5
+   },
+   " 2 eggs blk beans 1 tortilla":{
+      "cup of coffee":0.5,
+      "creamer":0.5,
+      "radius":8
+   },
+   "2 arnold palmers":{
+      " bowl popcorn":1.0,
+      "radius":1
+   },
+   " bowl popcorn":{
+      "2 arnold palmers":1.0,
+      "radius":1
+   },
+   " mixed greens salad":{
+      "walnut":1.0,
+      "radius":2
+   },
+   "walnut":{
+      " mixed greens salad":1.0,
+      "radius":2
+   },
+   "2 yellow tail fish tacos":{
+      " cilantro lime rice":1.0,
+      "radius":5
+   },
+   " cilantro lime rice":{
+      "2 yellow tail fish tacos":1.0,
+      "radius":5
+   },
+   "nuts":{
+      " garden salad":0.5,
+      " seeds":0.5,
+      "radius":4
+   },
+   " seeds":{
+      " garden salad":0.5,
+      "nuts":0.5,
+      "radius":4
+   },
+   "chicken rice vegetable soup":{
+      " watermelon drink":1.0,
+      "radius":4
+   },
+   " watermelon drink":{
+      "chicken rice vegetable soup":1.0,
+      "radius":4
+   },
+   " lemon water":{
+      "1 tbl sugar":1.0,
+      "radius":2
+   },
+   "1 tbl sugar":{
+      " lemon water":1.0,
+      "radius":2
+   },
+   "12oz iced coffee":{
+      "cream":1.0,
+      "radius":1
+   },
+   "cream":{
+      "12oz iced coffee":0.2,
+      "coffee":0.4,
+      " 2 sugars":0.4,
+      "radius":5
+   },
+   "1 fish":{
+      " chips daughter left":1.0,
+      "radius":1
+   },
+   " chips daughter left":{
+      "1 fish":1.0,
+      "radius":1
+   },
+   "1 banana":{
+      " chips":1.0,
+      "radius":2
+   },
+   "half lentils wquinoa":{
+      " brn ric":1.0,
+      "radius":2
+   },
+   " brn ric":{
+      "half lentils wquinoa":1.0,
+      "radius":2
+   },
+   "3 pancakes":{
+      "egg scramble oj":1.0,
+      "radius":3
+   },
+   "egg scramble oj":{
+      "3 pancakes":1.0,
+      "radius":3
+   },
+   "club sandwich":{
+      " chips":1.0,
+      "radius":2
+   },
+   "gyro sandwich":{
+      "greek salad":1.0,
+      "radius":3
+   },
+   "greek salad":{
+      "gyro sandwich":1.0,
+      "radius":3
+   },
+   "fruit bowl":{
+      "cottage cheese":1.0,
+      "radius":2
+   },
+   "cottage cheese":{
+      "fruit bowl":1.0,
+      "radius":2
+   },
+   "potato":{
+      " eggs scramble":0.5,
+      " oj":0.5,
+      "radius":6
+   },
+   " eggs scramble":{
+      "potato":0.5,
+      " oj":0.5,
+      "radius":6
+   },
+   " oj":{
+      "potato":0.5,
+      " eggs scramble":0.5,
+      "radius":6
+   },
+   "chilaquiles breakfast":{
+      "2 eggs":1.0,
+      "radius":1
+   },
+   "2 eggs":{
+      "chilaquiles breakfast":0.2,
+      "salsa":0.4,
+      "chile relleno":0.4,
+      "radius":5
+   },
+   "veggies hummus":{
+      " crab ceviche":1.0,
+      "radius":4
+   },
+   " crab ceviche":{
+      "veggies hummus":1.0,
+      "radius":4
+   },
+   "2 enchiladas":{
+      "rice":1.0,
+      "radius":2
+   },
+   "rice":{
+      "2 enchiladas":1.0,
+      "radius":2
+   },
+   "apple walnut salad":{
+      " cup clam chowder":1.0,
+      "radius":4
+   },
+   " cup clam chowder":{
+      "apple walnut salad":1.0,
+      "radius":4
+   },
+   "bowl chili":{
+      "salad":1.0,
+      "radius":2
+   },
+   "salad":{
+      "bowl chili":1.0,
+      "radius":2
+   },
+   "paella":{
+      " salad":1.0,
+      "radius":1
+   },
+   " salad":{
+      "paella":1.0,
+      "radius":1
+   },
+   "orange chicken":{
+      "fried rice":1.0,
+      "radius":2
+   },
+   "fried rice":{
+      "orange chicken":1.0,
+      "radius":2
+   },
+   "quarter subway sandwich":{
+      " handful chips quarter sub sandwich":1.0,
+      "radius":8
+   },
+   " handful chips quarter sub sandwich":{
+      "quarter subway sandwich":1.0,
+      "radius":8
+   },
+   "pot roast rice veggies":{
+      " watermelon water":1.0,
+      "radius":5
+   },
+   " watermelon water":{
+      "pot roast rice veggies":1.0,
+      "radius":5
+   },
+   "chile relleno":{
+      "2 eggs":1.0,
+      "radius":2
+   },
+   "ham sandwich ":{
+      "chips":1.0,
+      "radius":4
+   },
+   "cup clam chowder":{
+      " side coleslaw":1.0,
+      "radius":3
+   },
+   " side coleslaw":{
+      "cup clam chowder":1.0,
+      "radius":3
+   },
+   "chicken":{
+      " spinach pesto":1.0,
+      "radius":3
+   },
+   " spinach pesto":{
+      "chicken":1.0,
+      "radius":3
+   },
+   " veggie ravioli":{
+      "parmesan":1.0,
+      "radius":3
+   },
+   "parmesan":{
+      " veggie ravioli":1.0,
+      "radius":3
+   },
+   "half cup salsa":{
+      "chips":1.0,
+      "radius":2
+   },
+   "2 bean":{
+      " carne mini burritos":1.0,
+      "radius":3
+   },
+   " carne mini burritos":{
+      "2 bean":1.0,
+      "radius":3
+   },
+   "cheeseburger":{
+      "onionrings":1.0,
+      "radius":1
+   },
+   "onionrings":{
+      "cheeseburger":1.0,
+      "radius":1
+   },
+   "achos":{
+      "":0.5,
+      "birria meat":0.5,
+      "radius":4
+   },
+   "birria meat":{
+      "":0.5,
+      "achos":0.5,
+      "radius":4
+   },
+   "chicken mole":{
+      "spanish rice":1.0,
+      "radius":2
+   },
+   "spanish rice":{
+      "chicken mole":1.0,
+      "radius":2
+   },
+   "tomato avocado cucumber salad":{
+      " grilled chicken breast":1.0,
+      "radius":4
+   },
+   " grilled chicken breast":{
+      "tomato avocado cucumber salad":1.0,
+      "radius":4
+   },
+   "ashes potatoes":{
+      "meatloaf":1.0,
+      "radius":2
+   },
+   "coffee":{
+      "cream":0.5,
+      " 2 sugars":0.5,
+      "radius":4
+   },
+   " 2 sugars":{
+      "coffee":0.5,
+      "cream":0.5,
+      "radius":4
+   }
+}
